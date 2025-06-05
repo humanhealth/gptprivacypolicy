@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Privacy Policy</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>This GPT assistant does not collect or store any personal data.</p>
+  <p>When you connect services like Gmail, Google Calendar, or Notion, all access is handled through secure authentication provided by ChatGPT. No credentials are stored or accessed directly.</p>
+  <p>This assistant operates fully within your ChatGPT environment and respects your data privacy at all times.</p>
+</body>
+</html>
